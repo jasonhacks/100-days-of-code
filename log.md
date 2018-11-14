@@ -1,3 +1,12 @@
+# 100 Days Of Code - Log
+
+### Day 0: November 14, 2018 (Example 1)
+##### (delete me or comment me out)
+
+**Today's Progress**: Code Academy Lessons
+
+**Thoughts:** Python would be a great tool to help with my pentesting career. I am starting my 100 days of code challenge in order to force myself to get better with Python.
+
 <!---
 
 # 100 Days Of Code - Log
